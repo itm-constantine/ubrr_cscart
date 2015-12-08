@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-ru\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /addons/rus_sberbank.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2015-07-02 10:07-0400\n"
+
+msgctxt "Addons::name::ubrir"
+msgid "Ubrir payment module"
+msgstr "Платежный модуль УБРиР"
+
+msgctxt "Languages::addons.ubrir.twpg_id"
+msgid "TWPG ID"
+msgstr "ID интернет-магазина для VISA"
+
+msgctxt "Languages::addons.ubrir.twpg_pass"
+msgid "TWPG Cert passowrd"
+msgstr "Пароль к сертификату VISA"
+
+msgctxt "Languages::addons.ubrir.uni_url"
+msgid "URL for Uniteller"
+msgstr "Для настройки ПЦ Uniteller используйте следующий URL: <br> [uni_url] <hr>"
+
+msgctxt "Languages::addons.ubrir.uni_id"
+msgid "UNI ID"
+msgstr "ID интернет-магазина для MasterCard"
+
+msgctxt "Languages::addons.ubrir.uni_login"
+msgid "UNI LOGIN"
+msgstr "Логин личного кабинета MasterCard"
+
+msgctxt "Languages::addons.ubrir.uni_pass"
+msgid "UNI PASS"
+msgstr "Пароль интернет-магазина для MasterCard"
+
+msgctxt "Languages::addons.ubrir.uni_userpass"
+msgid "UNI USER PASS"
+msgstr "Пароль личного кабинета MasterCard"
+
+msgctxt "Languages::addons.ubrir.two"
+msgid "Two id "
+msgstr "Два процессинга"
+

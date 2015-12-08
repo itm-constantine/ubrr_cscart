@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+	<id>ubrir</id>
+	<version>1.0</version>
+	<priority>56347</priority>
+	<position>0</position>
+	<auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+	<default_language>ru</default_language>
+	<status>active</status>
+
+	<functions>
+	    <item for="install">fn_ubrir_install</item>
+	    <item for="uninstall">fn_ubrir_uninstall</item>
+	</functions>
+</addon>

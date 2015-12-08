@@ -1,0 +1,2 @@
+<input type="radio" name="payment_info[pc_type]" value="visa" checked="checked"><span>VISA</span><!-- <h2>{var_dump($payment_info)}</h2> -->
+{if $payment_info['processor_params']['two']=='Y'}<input type="radio" name="payment_info[pc_type]" value="mc"><span>Mastercard</span>{/if}
